@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Andrew Carter</title>
+    <link>https://seblobubbleman.github.io/Andrew_Portfolio/post/</link>
+    <description>Recent content in Projects on Andrew Carter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://seblobubbleman.github.io/Andrew_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fisher Price See&#39;n Say Image Classifier</title>
+      <link>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-1/</link>
+      <pubDate>Thu, 20 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-1/</guid>
+      <description>For this project I built an image classifier for a staple toy in my childhood, the Fisher-Price See &amp;lsquo;n Say The Farmer Says. This could be beneficial to any child looking for a new twist on a classic toy. Being in the 21st century most kids have access to an iphone or ipad. The child could take a picture of the animal and an app would provide the Farmer speaking along with the animal sound.</description>
+    </item>
+    
+    <item>
+      <title>Restaurant Revenue Prediction Project</title>
+      <link>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-2/</link>
+      <pubDate>Thu, 13 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-2/</guid>
+      <description>Created a mathematical model to increase the effectiveness of investments in new restaurant sites. Explored categorical and numerical relationship to revenue using graphical models. Conducted feature engineering on the data to help best predict the model. Used Linear, Ridge, Lasso, KNeighbors, and Support Vector Regression to predict revenue. Choose Support Vector Regression as model.    This Project’s Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: In the Works</title>
+      <link>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 13 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://seblobubbleman.github.io/Andrew_Portfolio/post/project-3/</guid>
+      <description>In the works</description>
+    </item>
+    
+  </channel>
+</rss>
